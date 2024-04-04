@@ -10,3 +10,8 @@
 [![HTML](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/30px-HTML5_logo_and_wordmark.svg.png)]()
 [![CSS](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/20px-CSS3_logo_and_wordmark.svg.png)]()
 [![React](https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/React_Logo_SVG.svg/30px-React_Logo_SVG.svg.png)]()
+
+---
+## Languages
+
+<p>Spanish | English</p>
