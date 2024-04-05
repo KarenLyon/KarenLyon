@@ -1,6 +1,6 @@
 # Hi, I'm Karen Lyon! 👋
 
-👩‍💻 I'm a 25-year-old enthusiastic individual passionate about the world of programming. I embarked on my journey in this fascinating universe through the Full Stack Developer bootcamp at 4 Geeks Academy, where I discovered my passion for creating innovative technological solutions. Since then, I've immersed myself in a constant process of learning and improvement, exploring various programming languages and frameworks. Always in search of new challenges and opportunities to grow as a developer!
+👩‍💻 Enthusiastic individual passionate about the world of programming. I embarked on my journey in this fascinating universe through the Full Stack Developer bootcamp at 4 Geeks Academy, where I discovered my passion for creating innovative technological solutions. Since then, I've immersed myself in a constant process of learning and improvement, exploring various programming languages and frameworks. Always in search of new challenges and opportunities to grow as a developer!
 
 ---
 
